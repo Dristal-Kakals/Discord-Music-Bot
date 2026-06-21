@@ -76,4 +76,4 @@ Slash commands:
 - `/resume`
 - `/queue`
 - `/nowplaying`
-# Discord-Music-Bot
+# Я насрал
